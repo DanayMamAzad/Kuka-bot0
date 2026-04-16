@@ -44,4 +44,4 @@ client.on('messageCreate', async (message) => {
     }
 });
 
-client.login('MTE3ODgyMjk0MTYwNjE2NjU5OQ.GKZQzt.88ZScv9qOSMFOgS5PqAm105P3OMr_Dqv28NZ1M'); // تۆکنەکەت لێرە دابنێ
+client.login('MTE3ODgyMjk0MTYwNjE2NjU5OQ.GphpgR.KA9Gzy38xcHvmebUrponALPBujR-7RH7yahviE'); // تۆکنەکەت لێرە دابنێ
